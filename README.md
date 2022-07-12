@@ -1,6 +1,6 @@
-# menfou
+# FilmDataBase
 
-A new Flutter project.
+Flutter application pour retrouver le film que l'on souhaite depuis l'api de CinéDB (free).
 
 ## Getting Started
 
